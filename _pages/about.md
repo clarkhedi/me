@@ -21,6 +21,6 @@ social: true  # includes social icons at the bottom of the page
 Master, Tianjin Normal University<br>
 Building 15, Tianjin Normal University, Xiqing District, Tianjin, China<br>
 hedi1117@126.com, clarkhedi@gmail.com<br>
-[Github](https://github.com/clarkhedi) | [Blog](https://clarkhedi.github.io) | [Zhihu](https://www.zhihu.com/people/clarkhedi) | [Weibo](http://www.weibo.com/clarkhedi) | [Wechat](http://github.com/clarkhedi/me/assets/img/wechat_public_account.jpg)
+[Github](https://github.com/clarkhedi) | [Blog](https://clarkhedi.github.io) | [Zhihu](https://www.zhihu.com/people/clarkhedi) | [Weibo](http://www.weibo.com/clarkhedi) | [Wechat](https://github.com/clarkhedi/me/blob/master/assets/img/wechat_public_account.jpg)
 
 Research interest: computer vision and person re-identification.
